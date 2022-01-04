@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+<div style="background-color: skyblue;">
+    <h1 style="text-align: center; font-family: 'Courier New', Courier, monospace;"><u>RESUME</u></h1>
+    <h3 style="font-style: bold;">vishal chaturvedi</h3>
+    <h3>add:- H No 07 shankar nagar,</h3>
+    <h3>rambagh agra-282006.</h3>
+    <h3>mobile no. 9760041381</h3>
+        <hr style="border-width: 5px; background-color: aquamarine;">
+</div>
+    <h3 style="font-weight: bold;"><u>CAREER OBJECTIVE</u></h3>
+    <P style="font-style: oblique; font-size: 18px;">to build career in a leading organisation, where i can get the
+        opportunities to prove my abilities by acceptiong challenges.</P>
+    <h3 style="font-weight: bold;"><u>ACADEMIC QUALIFICATION</u></h3>
+    <div style="font-style: oblique; font-weight: bold;">10th:- st.stephen's public school in 2016.</div>
+    <div style="font-style: oblique;font-weight: bold;">12th:-st.stephen's public school in 2018</div>
+    <div style="font-style: oblique;font-weight: bold;">B.sc(voc) vs from dau dayal institute of vocational education in
+        2021.</div>
+    <h3 style="font-weight: bold;"><u>EXPERIENCE</u> </h3>
+    <DIV style="font-style:oblique;">Fresher</DIV>
+    <h3>STRENGTH</h3>
+    <div>java and python</div>
+    <h3>DECLARATION</h3>
+    <div>i solemnly declare that all the above information is correct to the best of my knowledge and belief.</div>
+</body>
+
+</html>
