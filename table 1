@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Table creation</title>
+</head>
+
+<body>
+  <table style="width:100" border=5>
+    <caption>student</caption>
+      <tr>
+        <th>S.NO</th>
+        <th>Name</th>
+        <th>course</th>
+      </tr>
+      <tr>
+        <TD COLSPAN=2>1</td>
+        <TD rowspan="2">MCA</td>
+      </tr>
+      <tr>
+	<TD >2</td>
+        <TD>AFD</td>
+
+      </tr>
+      <tr>
+        <TD>3</td>
+        <TD>abc</td>
+        <TD>cse</td>
+      </tr>
+  </table>
+
+</body>
+
+</html>
